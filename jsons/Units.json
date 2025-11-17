@@ -1,21 +1,16 @@
 [
 	{
 		"name": "Great Ace",
-		"unitType": "Fighter",
+		"unitType": "Civilian",
 		"uniques": [
-            // TODO: "[Every adjacent [{Friendly} {Water} unit] heals [100] HP <by consuming this unit>", "make a separate unit type somehow",
-            "[+10]% Strength bonus for [{Military} {Air}] units within [1] tiles",
+            // TODO: "[Every adjacent [{Friendly} {Water} unit] heals [100] HP <by consuming this unit>",
+			"[+10]% Strength bonus for [{Mobile SAM} {Anti-Aircraft Gun}] units within [2] tiles",
+            "[+15]% Strength bonus for [{Military} {Air}] units within [1] tiles",
 			"Can be earned through combat <for [Air] units>",
             "Is part of Great Person group [Ace]",
             "[This Unit] gets a name from the [Ace] group",
-			"[30]% chance to intercept air attacks",
-			"[+100]% Strength <vs [Land] units>",
+			"Unavailable <before discovering [Flight]>",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 1
-		"requiredTech": "Flight",
-		"strength": 50,
-		"rangedStrength": 80,
-		"range": 15,
-		"interceptRange": 8,
+		"movement": 2
 	}
 ]
