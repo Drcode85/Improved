@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Great Ace",
-		"unitType": "Civilian",
+		"name": "Storoz Keeper",
+		"unitType": "Gunpowder",
 		"uniques": [
             // TODO: "[Every adjacent [{Friendly} {Air} unit] heals [15] HP",
 			"[+10]% Strength bonus for [{Mobile SAM} {Anti-Aircraft Gun}] units within [2] tiles",
