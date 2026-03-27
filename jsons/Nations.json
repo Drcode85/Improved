@@ -32,7 +32,7 @@
 		"innerColor": [0,0,180],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Experimental Progression",
-		"uniques": ["Each city founded increases Science cost of Technologies [33]% less than normal", "[+20]% spy effectiveness [in foreign cities]"],
+		"uniques": ["Each city founded increases Science cost of Technologies [33]% less than normal", "[-20]% Science cost of researching new Technologies <when not at war>"],
 		"cities": ["Muchkit City","Petropavlovsk-Kamchatskiy","Y'paum","Matilda Port","Petya", "Alyna","Ela","Yugan","Palana","Raska","Yamya",
 			"Terza","Evaz","Peytroz","Elor","Newia","Blimuk","Valencia","Casisia","Dorpk","Manaiz","Alyani","Unr","P'repzo","Bhoknas","Jojur","Alanks","Anadyr","Yerzk","Kurilka",
 			"Dieome","Toma","Murkam","Lepiy","Zyran","Teto"]
