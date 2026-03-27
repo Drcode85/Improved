@@ -6,8 +6,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Glorious to our independence and neutrality of our nation!",
-		"startIntroPart2": "Izanbanton born from hardship from independence during Russian civil war and evade total conquest by through cunning diplomacy and thank to most risky and insane ways and move from Casido leading advancement, our chairman can you lead the nation through the chaos?",
+		"startIntroPart1": "Oh Casdio Valentine, the man who managed to bring uphold a nation that were once weak and significant to the powerhouse of advancement with risk and cunning tricks of him",
+		"startIntroPart2": "Izanbanton the unique born from hardship from independence during Russian civil war and evade from total annihilation. Our chairman Casdio! can you lead the nation through the chaos?",
 		
 		"declaringWar": "I must say I truly sorry but I must do this as is quite problematic to tell.",
 		"attacked": "You quite funny and irrational person I must say, that say.",
@@ -27,13 +27,14 @@
 		"afterPeace": "The war drag long, this peace will give a breather",
 		"tradeRequest": "We have a good deal that you will like?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,180],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Experimental Progression",
-		"uniques": ["Each city founded increases Science cost of Technologies [33]% less than normal", "[-33]% enemy spy effectiveness [in your cities]"],
+		"uniques": ["Each city founded increases Science cost of Technologies [33]% less than normal", ""],
 		"cities": ["Muchkit City","Petropavlovsk-Kamchatskiy","Y'paum","Matilda Port","Petya", "Alyna","Ela","Yugan","Palana","Raska","Yamya",
 			"Terza","Evaz","Peytroz","Elor","Newia","Blimuk","Valencia","Casisia","Dorpk","Manaiz",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Alyani","Unr","P'repzo","Bhoknas","Jojur","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
 ]
