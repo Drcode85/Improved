@@ -1,21 +1,12 @@
 [
 	{
-		"name": "Kovol Factory",
-		"replaces": "Factory",
+		"name": "Furnace Generator",
+		"replaces": "Medical Lab",
 		"uniqueTo": "Izanbanton",
-		"cost": 480,
-		"production": 4,
-		"maintenance": 96,
-		"requiredTech": "industrialization"
-	},
-	{
-		"name": "Angel of War",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredBuilding": "Hospital",
+		"maintenance": 2,
+		"percentStatBonus": {"food": 5},
+		"requiredTech": "Pharmaceuticals",
+		"uniques": ["[25]% Food is carried over after population increases [in this city]"]
 	}
 ]
