@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Storoz Keeper",
+		"name": "Coalition Guard",
 		"unitType": "Gunpowder",
-		"uniques": [
-            // TODO: "[Every adjacent [{Friendly} {Air} unit] heals [15] HP",
-			"[+10]% Strength bonus for [{Mobile SAM} {Anti-Aircraft Gun}] units within [2] tiles",
-            "[+15]% Strength bonus for [{Military} {Air}] units within [1] tiles",
-			"Can be earned through combat <for [Air] units>",
-            "Is part of Great Person group [Ace]",
-            "[This Unit] gets a name from the [Ace] group",
-			"Unavailable <before discovering [Flight]>",
-            "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Izanbanton",
+		"movement": 2,
+		"strength": 50,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"],
+		"attackSound": "shot"
 	}
 ]
