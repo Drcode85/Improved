@@ -52,7 +52,7 @@
     "happiness": 5,
     "faith": 3,
     "military": 4,
-    "aggressive": 3,
+    "aggressive": 10,
     "declareWar": 3,
     "commerce": 6,
     "diplomacy": 7,
