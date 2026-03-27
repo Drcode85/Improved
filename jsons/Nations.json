@@ -5,6 +5,7 @@
 		"adjective": ["Izanbantonian"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Casdio Valentine",
 		
 		"startIntroPart1": "Oh Casdio Valentine, the man who managed to bring uphold a nation that were once weak and significant to the powerhouse of advancement with risk and cunning tricks of him",
 		"startIntroPart2": "Izanbanton the unique born from hardship from independence during Russian civil war and evade from total annihilation. Our chairman Casdio! can you lead the nation through the chaos?",
@@ -31,10 +32,9 @@
 		"innerColor": [0,0,180],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Experimental Progression",
-		"uniques": ["Each city founded increases Science cost of Technologies [33]% less than normal", ""],
+		"uniques": ["Each city founded increases Science cost of Technologies [33]% less than normal", "[+20]% spy effectiveness [in foreign cities]"],
 		"cities": ["Muchkit City","Petropavlovsk-Kamchatskiy","Y'paum","Matilda Port","Petya", "Alyna","Ela","Yugan","Palana","Raska","Yamya",
-			"Terza","Evaz","Peytroz","Elor","Newia","Blimuk","Valencia","Casisia","Dorpk","Manaiz",
-			"Alyani","Unr","P'repzo","Bhoknas","Jojur","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+			"Terza","Evaz","Peytroz","Elor","Newia","Blimuk","Valencia","Casisia","Dorpk","Manaiz","Alyani","Unr","P'repzo","Bhoknas","Jojur","Alanks","Anadyr","Yerzk","Kurilka",
+			"Dieome","Toma","Murkam","Lepiy","Zyran","Teto"]
 	}
 ]
