@@ -43,34 +43,35 @@
       ]
   },*/
   {
-    "name": "Ahmad al-Mansur",
+    "name": "Casdio Valentine",
     "production": 6,
     "food": 6,
     "gold": 5,
-    "science": 5,
-    "culture": 7,
+    "science": 7,
+    "culture": 5,
     "happiness": 5,
-    "faith": 6,
-    "military": 5,
+    "faith": 3,
+    "military": 4,
     "aggressive": 3,
-    "declareWar": 5,
+    "declareWar": 3,
     "commerce": 6,
-    "diplomacy": 6,
-    "loyal": 7,
-    "expansion": 4,
-    "denounceWillingness": 5,
+    "diplomacy": 7,
+    "loyal": 6,
+    "expansion": 5,
+    "denounceWillingness": 4,
+    
     "priorities": {
-      "Tradition": 7,
+      "Tradition": 5,
       "Liberty": 5,
-      "Honor": 4,
-      "Commerce": 5,
+      "Honor": 3,
+      "Commerce": 6,
       "Patronage": 5,
-      "Piety": 6,
-      "Rationalism": 5,
-      "Freedom": 5,
-      "Autocracy": 4,
-      "Order": 7
-  }
+      "Piety": 3,
+      "Rationalism": 7,
+      "Freedom": 6,
+      "Autocracy": 2,
+      "Order": 8
+    }
   },
-    },
+
     ]
