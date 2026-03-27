@@ -2,8 +2,8 @@
 	{
 		"name": "Izanbanton",
 		"leaderName": "Casdio Valentine",
-		"adjective": ["Izanbantonian"],
-		"startBias": ["Plains"],
+		"adjective": ["Bantonish"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Casdio Valentine",
 		
