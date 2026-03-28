@@ -1,11 +1,11 @@
 [
 	{
-		"name": "Furnace Generator",
+		"name": "Grid Generator",
 		"replaces": "Medical Lab",
 		"uniqueTo": "Izanbanton",
 		"requiredBuilding": "Hospital",
 		"maintenance": 2,
-		"percentStatBonus": {"food": 5},
+		"percentStatBonus": {"food": 10},
 		"requiredTech": "Pharmaceuticals",
 		"uniques": ["[25]% Food is carried over after population increases [in this city]"]
 	}
