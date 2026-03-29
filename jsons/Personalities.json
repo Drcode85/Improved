@@ -44,7 +44,7 @@
   },*/
   {
     "name": "Casdio Valentine",
-    "production": 6,
+    "production": 7,
     "food": 6,
     "gold": 6,
     "science": 8,
@@ -64,13 +64,13 @@
       "Tradition": 5,
       "Liberty": 5,
       "Honor": 3,
-      "Commerce": 7,
+      "Commerce": 6,
       "Patronage": 5,
       "Piety": 3,
       "Rationalism": 8,
       "Freedom": 6,
-      "Autocracy": 2,
-      "Order": 8
+      "Autocracy": 3,
+      "Order": 7
     }
   },
 
