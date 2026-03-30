@@ -2,14 +2,14 @@
 	{
 		"name": "Coalition Guard",
 		"unitType": "Gunpowder",
-		"replaces": "Great War Infantry",
+		"replaces": "Infantry",
 		"uniqueTo": "Izanbanton",
 		"movement": 2,
-		"strength": 50,
-		"cost": 320,
-		"requiredTech": "Replaceable Parts",
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
 		"upgradesTo": "Infantry",
-		"obsoleteTech": "Plastics",
+		"obsoleteTech": "Mobile Tactics",
 		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"],
 		"attackSound": "shot"
 	}
