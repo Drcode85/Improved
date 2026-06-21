@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Coalition Guard",
+		"name": "Coalition Volunteer",
 		"unitType": "Gunpowder",
 		"replaces": "Infantry",
 		"uniqueTo": "Izanbanton",
